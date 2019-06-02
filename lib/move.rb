@@ -17,5 +17,5 @@ def move(board,input,char='X')
 end
 
 def char
-  
+
 end
